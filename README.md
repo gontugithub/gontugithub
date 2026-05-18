@@ -1,19 +1,37 @@
 # 🎱 GONZALO SÁNCHEZ
 
-**` STUDYING SOFTWARE DEVELOPMENT `**
+**`STUDYING SOFTWARE DEVELOPMENT`**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Estudiante del doble grado en **Ciencia de Datos con IA** y **Desarrollo Fullstack** apasionado por el backend y las APIs REST. Actualmente aprendiendo a construir sistemas escalables con Laravel y trabajando en proyectos propios para afianzar lo aprendido en clase.
 
 ---
 
 ### Languages and Tools
 
-|                    |                                                       |
-| :----------------: | :---------------------------------------------------: |
-|     `PROGRAMMING LANGUAGE`      |   <img src="https://skillicons.dev/icons?i=java,kotlin,cs,py">    |
-|   `FRONTEND`    |  <img src="https://skillicons.dev/icons?i=html,css,js">  |
-|      `BBDD`       |     <img src="https://skillicons.dev/icons?i=firebase,mysql">     |
-|        `OS`        |    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu">    |
-|      `TOOLS`      |       <img src="https://skillicons.dev/icons?i=spring,androidstudio,eclipse,git,github,visualstudio,vscode,vscodium,unity,figma,notion">       |
+| | |
+| --- | --- |
+| `PROGRAMMING LANGUAGE` | [![](https://skillicons.dev/icons?i=java,kotlin,cs,py,php)](https://skillicons.dev) |
+| `FRONTEND` | [![](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) |
+| `BACKEND` | [![](https://skillicons.dev/icons?i=laravel,spring)](https://skillicons.dev) |
+| `BBDD` | [![](https://skillicons.dev/icons?i=firebase,mysql,mongodb)](https://skillicons.dev) |
+| `OS` | [![](https://skillicons.dev/icons?i=linux,windows,ubuntu)](https://skillicons.dev) |
+| `TOOLS` | [![](https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,figma,notion)](https://skillicons.dev) |
 
-#
+---
+
+### Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [bet365](https://github.com/gontugithub/bet365) | API REST para predicciones del Mundial FIFA 2026 con sistema de puntuación, comunidades y ranking | Laravel 11, Sanctum, MySQL, Docker |
+| [Cine](https://github.com/gontugithub/Cine) | Aplicación de gestión de cine | Java |
+| [FitnessApp](https://github.com/gontugithub/FitnessApp) | Aplicación de seguimiento de fitness | Java |
+
+---
+
+### Actualmente aprendiendo
+
+- APIs REST con **Laravel 11** y **Sanctum**
+- Arquitectura de software limpio (Services, Traits, Resources)
+- Contenedores con **Docker**
+- Bases de datos relacionales con **MySQL**
